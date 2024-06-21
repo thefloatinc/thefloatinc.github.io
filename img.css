@@ -1,0 +1,20 @@
+@font-face {
+    font-family: HelveticaNeueMedium;
+    src: url(HelveticaNeueMedium.otf);
+  }
+h1{
+    font-family: HelveticaNeueMedium;
+    font-size: 4rem;
+    text-align: center;
+}
+
+i{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 50px; /* Adjust the size as needed */
+    height: -10px;
+    font-size: 37px;
+    cursor: pointer;
+    color: black;
+}
